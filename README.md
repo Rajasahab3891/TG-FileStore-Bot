@@ -5,7 +5,7 @@
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
 
-### Features:
+### Features: 
 - In PM Just Forward or Send any file it will save on Database & give you the Access Link.
 - In Channel Add Bot as Admin with Edit Rights. When you will send any file or media in Channel it will Edit the Broadcast Message with Saved Link Button.
 - You can also Broadcast anythings via this Bot.
